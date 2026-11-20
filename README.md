@@ -61,7 +61,7 @@ Document Processing & Reconciliation/
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Endriqe/Document-Processing-Reconciliation.git
 cd "Document Processing & Reconciliation"
 ```
 
