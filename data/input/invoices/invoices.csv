@@ -1,0 +1,4 @@
+﻿invoice_number,supplier,amount,issue_date,due_date
+FV-1001,ABC Sp. z o.o.,1000.0,2026-10-01,2026-10-31
+FV-1002,XYZ Solutions Sp. z o.o.,475.5,2026-10-05,2026-11-04
+FV-1003,Delta Services Sp. z o.o.,2180.0,2026-10-10,2026-10-25

@@ -1,0 +1,3 @@
+invoice_number;supplier;amount;total_paid;remaining_amount;status
+FV-1001;ABC Ltd;1500.0;0.0;1500.0;UNPAID
+FV-1002;XYZ Solutions;2750.5;0.0;2750.5;UNPAID
