@@ -1,4 +1,7 @@
 ﻿invoice_number,supplier,amount,issue_date,due_date
-FV-1001,ABC Sp. z o.o.,1000.0,2026-10-01,2026-10-31
-FV-1002,XYZ Solutions Sp. z o.o.,475.5,2026-10-05,2026-11-04
-FV-1003,Delta Services Sp. z o.o.,2180.0,2026-10-10,2026-10-25
+FV-1001,ABC Ltd,1500.00,2026-01-10,2026-02-10
+FV-1002,XYZ Solutions,2750.50,2026-01-15,2026-02-15
+FV-1003,Delta Services,1000.00,2026-01-20,2026-02-20
+FV-1004,Omega Trading,800.00,2026-01-25,2026-02-25
+FV-1005,Duplicate Ltd,500.00,2026-01-30,2026-02-28
+FV-1005,Duplicate Ltd,500.00,2026-01-30,2026-02-28

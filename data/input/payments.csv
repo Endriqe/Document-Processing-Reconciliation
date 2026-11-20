@@ -1,8 +1,8 @@
 ﻿payment_id,invoice_number,recipient,amount,payment_date
-PAY-2001,FV-1001,ABC Sp. z o.o.,600.0,2026-10-15
-PAY-2002,FV-1001,ABC Sp. z o.o.,400.0,2026-10-20
-PAY-2003,FV-1002,XYZ Solutions Sp. z o.o.,300.0,2026-10-18
-PAY-2004,FV-1003,Delta Services Sp. z o.o.,2300.0,2026-10-26
-PAY-2005,FV-9999,ABC Sp. z o.o.,125.0,2026-10-22
-PAY-2006,,XYZ Solutions Sp. z o.o.,175.0,2026-10-23
-PAY-2007,FV-1002,Other Supplier Ltd.,175.5,2026-10-24
+PAY-3001,FV-1002,XYZ Solutions,2750.50,2026-02-01
+PAY-3002,FV-1003,Delta Services,600.00,2026-02-05
+PAY-3003,FV-1004,Omega Trading,1000.00,2026-02-10
+PAY-3004,FV-1005,Duplicate Ltd,500.00,2026-02-12
+PAY-3005,,Unknown Supplier,175.00,2026-02-13
+PAY-3006,FV-9999,Unknown Supplier,230.00,2026-02-14
+PAY-3007,FV-1001,Wrong Recipient Ltd,100.00,2026-02-15

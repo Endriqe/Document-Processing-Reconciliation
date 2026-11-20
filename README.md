@@ -37,7 +37,11 @@ Document Processing & Reconciliation/
 │   │   ├── invoices/
 │   │   │   ├── invoices.csv
 │   │   │   ├── invoice_001.pdf
-│   │   │   └── invoice_002.pdf
+│   │   │   ├── invoice_002.pdf
+│   │   │   ├── invoice_003.pdf
+│   │   │   ├── invoice_004.pdf
+│   │   │   ├── invoice_005.pdf
+│   │   │   └── invoice_006.pdf
 │   │   │
 │   │   └── payments.csv
 │   │
@@ -132,6 +136,10 @@ The application processes the selected invoice source, reconciles the invoices a
 ## Output Reports
 
 The application generates two CSV reports in `data/output/`.
+
+Sample output reports are included in the repository to demonstrate the application's functionality, including all supported invoice statuses and payment review categories.
+
+The reports are overwritten each time the application is executed.
 
 ### invoice_report.csv
 
